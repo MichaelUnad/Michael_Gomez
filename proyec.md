@@ -3,11 +3,11 @@
 <!-- son comentarios -->
 <head>
 	<meta charset="UTF-8">
-	<meta content = "CARLOS ANDRES RAMIREZ" NAME="author"/>
+	<meta content = "Michael Steven Gomez" NAME="author"/>
 	<meta content = "Diseño Web Ingeniería de Sistemas UNAD" NAME="description"/>
 	<meta content = "PROYECTO,UNIDAD2,UNAD" NAME="keywords"/>
 	<!-- el siguiente se muestra en el titulo de la pagina inicial -->
-	<title>.:: Unidad2 UNAD - Carlos Andrés Ramírez ::.</title>
+	<title>.:: Unidad2 UNAD - Michael Steven Gomez ::.</title>
 	<link rel="stylesheet" href="css/normalize.css">
 	<link href="https://fonts.googleapis.com/css?family=Fjalla+One|Lobster" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
@@ -62,7 +62,7 @@
 <footer>
 	<!-- codigo para crear un pie de página se le pondria h3 para sacar el cuadroblanco -->
 
-copyright Todos los derechos reservados; Carlos Andréss Ramírez - UNAD 2016
+copyright Todos los derechos reservados; Michael Steven Gomez - UNAD 2016
 </footer>
 	</div>
 </body>
